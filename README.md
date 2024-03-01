@@ -1,2 +1,2 @@
-# Myntra-clone
+# Amazon-clone
 E-Commerce site.
